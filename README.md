@@ -28,9 +28,7 @@ The scenario was to take the role of a real estate analyst and build a model tha
 
 ## Understanding the project.
 
-My first start was to read through the brief, then start to gather ideas and breakdown the individual elements to be completed. I applied the agile project management method with the aid of Trello which is a collaborative tool that organises projects into tasks. This aided the thought process, provided a space to access resources, organize ides as well as optimising tasks. 
-                                
-![Trello screenshots](./Images/trelloscreenshot1.png "Project tasks overview")
+My first start was to read through the brief, then start to gather ideas and breakdown the individual elements to be completed. I applied the agile project management method with the aid of Trello which is a collaborative tool that organises projects into tasks. This aided the thought process, provided a space to access resources, organize ides as well as optimising tasks.
  
 To get a feel for the data I initially viewed it on Excel, using sorting functions to view extremes in the data. 
 
