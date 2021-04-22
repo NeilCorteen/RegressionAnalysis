@@ -2,7 +2,7 @@
 
 _Neil Corteen, April 2021_
 
-Aim
+## Aim
 
 The aim of the project was to combine and use the skills learnt in the first four weeks of a data analyst bootcamp and encompassed three main tools, MySQL, Python /Jupyter and  Tableau.
 
@@ -13,7 +13,7 @@ There were five clear deliverables:
 - A Tableau Dashboard [here](./Tableau/Tablue.md)
 - Python code [here](./Python/README.md)
 - A short public presentation (5-7 mins)
-(using the assistance of a visual presentation) 
+- using the assistance of a visual presentation
 
 The original csv file can be viewed HERE
 The updated csv file can be viewed HERE
@@ -26,6 +26,8 @@ The scenario was to take the role of a real estate analyst and build a model tha
 ## Understanding the project.
 
 My first start was to read through the brief, then start to gather ideas and breakdown the individual elements to be completed. I applied the agile project management method with the aid of Trello which is a collaborative tool that organises projects into tasks. This aided the thought process, provided a space to access resources, organize ides as well as optimising tasks. 
+
+![Trello screenshots](./Images/Trelloscreenshot1.png "Project tasks overview")
 
 SCREENSHOT TRELLO
 
@@ -65,12 +67,7 @@ Sqft lot: from 651 to 871200
 Outliers, 2 = ca 85000 sqft
 
 
-
-
-
-
-
-Python using Jupyter Notebook
+## Python using Jupyter Notebook
 Following this I used Jupyter Notebook to script code in Python. I imported the csv dataset into a Panda framework. This visual method proved to be faster than scoping in Excel and showed some obvious correlations, outliers and it was possible to retrieve more detailed information and data types. The first task was to categorise the columns to better understand the date. Then I ran functions to scope the data:
 
 
@@ -89,23 +86,12 @@ Once the scoping was completed I used this information to focus on the data clea
 
 Further processing may be needed before modelling, such as dealing with columns with many zeros and considering columns removing columns that do not add value.
 
-Tableau 
+## Tableau
+The cleaned data was converted into csv updated into  
 
 
-SQL
+## SQL
 The SQL element comprised of tasks and specific questions to practice retrieving information from databases. To perform the task I imported the given csv file into MySQL Workbench. The questions and answers can be viewed HERE.
 
 SCREENSHOT WORKBENCH
-
-
-
-
-
-
-
-
-
-
-
-
 
