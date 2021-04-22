@@ -38,15 +38,15 @@ To get a feel for the data I initially viewed it on Excel, using sorting functio
 
 The data set was from the Seattle area of the USA, encompasing data on almost 22,000 properties that were sold between 2014 and 2015. Initial findings were that the data was fairly clean with no obvious missing values, but included several columns that only represented some of the data, thus with many zeros. Some were for obvious reasons, such as if a property had a view or waterfront location, others were more ambiguous, such as year renovated. There were also location specific references such as grade 4-13, condition 1-5 and view 0 -4 to be considered and understood. These were clarified in the brief as:
 
-•    Id: Unique identification number for the property.
-•    date: date the house was sold.
-•    price: price of the house.
-•    waterfront: house which has a view to a waterfront.
-•    condition: How good the condition is (overall). 1 indicates worn out property and 5 excellent.
-•    grade: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
-•    Sqft_above: square footage of house apart from basement.
-•    Sqft_living15: Living room area in 2015 (implies - some renovations). This might or might not have affected the lotsize area.
-•    Sqft_lot15: lotSize area in 2015 (implies - some renovations).
+•    **Id**: Unique identification number for the property.
+•    **date**: date the house wassold.
+•   **price**: price of the house.
+•   **waterfront**: house which has a view to a waterfront.
+•   **condition**: How good the condition is (overall). 1 indicates worn out property and 5excellent.
+•   **grade**: Overall grade given to the housing unit, based on King County grading system. 1 poor ,13 excellent.
+•   **Sqft_above**: square footage of house apart from basement.
+•   **Sqft_living15**: Living room area in 2015 (implies - some renovations). This might or might not have affected the lotsize area.
+•   **Sqft_lot15**: lotSize area in 2015 (implies - some renovations).
 
 
 This simple process began to show potential questions and ways to organize the data, such as:
@@ -68,7 +68,7 @@ Outliers, 2 = ca 85000 sqft
 ## Python using Jupyter Notebook
 Following this I used Jupyter Notebook to script code in Python. I imported the csv dataset into a Panda framework. This visual method proved to be faster than scoping in Excel and showed some obvious correlations, outliers and it was possible to retrieve more detailed information and data types. The first task was to categorise the columns to better understand the date. Then I ran functions to scope the data:
 
-![Data scoping screenshots](./Images/scoutingcreenshot1.png "Project tasks overview")
+![Data scoping screenshots](./Images/scoutingscreenshot.png "Project tasks overview")
 
 Then I began to visualise it using matplotlib and seaborn functions: 
 
