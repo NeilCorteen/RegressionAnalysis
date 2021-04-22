@@ -11,7 +11,7 @@ There were five clear deliverables:
 
 - SQL querie Solution [here](./SQL/SQL_Solution.md)
 - A Tableau Dashboard [here](./Tableau/Tablue.md)
-- Python code [here](./Python/README.md)
+- Python code [here](./Python/Documents/Regression_Analysis_Exploration.md)
 - A short public presentation (5-7 mins)
 - using the assistance of a visual presentation
 
@@ -79,7 +79,6 @@ Then I began to visualise it using matplotlib and seaborn functions.
 
 SCREENSHOT MATPLOT
 
-SCREENSHOT SEABORN
 
 
 Once the scoping was completed I used this information to focus on the data cleaning and wrangling processes, such as removing duplicated Ids, using judgement to remove outliers. I completed this process so far so I could use the information for further analysis and visualization in Tableau. 
