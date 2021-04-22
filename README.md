@@ -12,7 +12,7 @@ The aim of the project was to combine and use the skills learnt in the first fou
 There were five clear deliverables:
 
 - SQL querie Solution [here](./SQL/SQL_Solution.md)
-- A Tableau Dashboard [here](./Tableau/Tablue.md)
+- A Tableau Dashboard [here](./Tableau/Tableau.md)
 - Python code [here](./Jupyter/Documents/Regression_Analysis_Exploration.md)
 - A short public presentation (5-7 mins)
 - using the assistance of a visual presentation
