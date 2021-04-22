@@ -29,12 +29,12 @@ The scenario was to take the role of a real estate analyst and build a model tha
 ## Understanding the project.
 
 My first start was to read through the brief, then start to gather ideas and breakdown the individual elements to be completed. I applied the agile project management method with the aid of Trello which is a collaborative tool that organises projects into tasks. This aided the thought process, provided a space to access resources, organize ides as well as optimising tasks. 
-
+                                
 ![Trello screenshots](./Images/trelloscreenshot1.png "Project tasks overview")
  
 To get a feel for the data I initially viewed it on Excel, using sorting functions to view extremes in the data. 
 
-![Trello screenshots](./Images/excelscreenshot1.png "Project tasks overview")
+![Excel Tasks](./Images/excelscreenshot1.png "Dataset overview in Excel")
 
 The data set was from the Seattle area of the USA, encompasing data on almost 22,000 properties that were sold between 2014 and 2015. Initial findings were that the data was fairly clean with no obvious missing values, but included several columns that only represented some of the data, thus with many zeros. Some were for obvious reasons, such as if a property had a view or waterfront location, others were more ambiguous, such as year renovated. There were also location specific references such as grade 4-13, condition 1-5 and view 0 -4 to be considered and understood. These were clarified in the brief as:
 
