@@ -9,13 +9,10 @@ The aim of the project was to combine and use the skills learnt in the first fou
 ## Quick reference:
 There were five clear deliverables:
 
-# Contents from the '/media/user/README_1.md' markdown file:
-
-
-- SQL querie [here](./SQL/SQL_Solution.md)
-- A Tableau Dashboard
-- Python code
-A short public presentation (5-7 mins)
+- SQL querie Solution [here](./SQL/SQL_Solution.md)
+- A Tableau Dashboard [here](./Tableau/Tablue.md)
+- Python code [here](./Python/README.md)
+- A short public presentation (5-7 mins)
 (using the assistance of a visual presentation) 
 
 The original csv file can be viewed HERE
